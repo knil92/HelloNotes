@@ -1,0 +1,9 @@
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Hello Notes.exe.config
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Hello Notes.exe
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Hello Notes.pdb
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hello Notes.exe
+C:\Users\liam_\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Hello Notes.pdb
